@@ -1,3 +1,6 @@
+# omnistack8-backend
+Omnistack is a week that @rocketseat offers an introduction to these technologies: NodeJS, React and ReactNative. So everyone that participate, develop a project using these technologies to build the backend, frontend and mobile app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
